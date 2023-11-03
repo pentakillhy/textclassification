@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398788251610",
+    "project_id": "textclassify-838bd",
+    "storage_bucket": "textclassify-838bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398788251610:android:da865f3cc4d55366237ae3",
+        "android_client_info": {
+          "package_name": "com.example.textclassificationapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZ-lbEuvEaFJYy-khOPpm6MEIVwvaehU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
